@@ -13,3 +13,11 @@ npm start to start the application.
 3 - start to code in app.js.
 <br/>
 Any help you need to start coding javaScript in React React documentation
+<br/>
+<img src="./prints/home.PNG" height="500px"/>
+<img src="./prints/carrinho.PNG" height="500px"/>
+<img src="./prints/carrinhoComProduto.PNG" height="500px"/>
+<img src="./prints/cadastro.PNG" height="500px"/>
+<img src="./prints/meu perfil.PNG" height="500px"/>
+<img src="./prints/restaurante.PNG" height="500px"/>
+<img src="./prints/signUP.PNG" height="500px"/>
